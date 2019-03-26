@@ -1,2 +1,2 @@
 # GItgub_Practice_assingment
-Local repo
+This is a practice project for Git and GitHub.

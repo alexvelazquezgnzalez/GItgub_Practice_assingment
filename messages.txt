@@ -4,30 +4,4 @@ I also want to learn git my boy. ;(
 
 but not as much as me.... 
 
-function cylinderVolume(height, radius){
-  return(height)*(circleArea(radius))
-}
-
-
-
-
-function circleArea(radius){
-  return(Math.PI)*(radius*radius)
-} 
-
-
-function coneVolume(height, radius){
-  return(2/3)*(height)*(circleArea(radius))
-}
-
-function rollDice(){
-  return [Math.ceil(Math.random()*6), Math.ceil(Math.random()*6)]
-} 
-
-
-
-function greatestCommonDenometer(a, b){
- while (b > 0); 
-  if (a > b); 
- 
-}
+This is a txt file not a JS file
